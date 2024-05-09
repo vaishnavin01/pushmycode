@@ -1,0 +1,11 @@
+ul > li {
+  list-style: none;
+}
+ul {
+  display: flex;
+  justify-content: space-around;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
